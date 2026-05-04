@@ -8,6 +8,12 @@ Currently wrapping up my first year and enjoying the journey of learning new tec
 - Basics of C++ and Python
 - Eager to expand my programming abilities
 
+🔐 **Cybersecurity Journey**
+
+* Currently studying cybersecurity on my own
+* Learning about networking, Linux, and basic penetration testing
+* Interested in ethical hacking and system security
+
 🚀 **Open to Projects**
 I’m looking for inspiration and open to collaborating on interesting projects. If you have ideas or want to team up, let’s talk!
 
