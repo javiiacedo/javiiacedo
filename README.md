@@ -1,10 +1,10 @@
 # 👋 Hi, I'm JaviiAcedo!
 
 🎓 **Computer Engineering Student**  
-Currently wrapping up my first year and enjoying the journey of learning new technologies.
+Currently wrapping up my third year and enjoying the journey of learning new technologies.
 
 💻 **Languages & Skills**
-- Java (intermediate level, always improving!)
+- Java (intermediate level)
 - Basics of C++ and Python
 - Eager to expand my programming abilities
 
